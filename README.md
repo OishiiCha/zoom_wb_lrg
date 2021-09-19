@@ -9,5 +9,5 @@ tkinter
 
 # Installation in linux terminal (Debian/Ubuntu):
 ```
-sudo apt update -y && sudo apt full-upgrade -y && sudo apt dist-upgrade -y && sudo apt install git python3 pip python-tk python3-tk -y && git clone https://github.com/OishiiCha/zoom_web_py.git && cd zoom_web_lrg && python3 desktop_file.py
+sudo apt update -y && sudo apt full-upgrade -y && sudo apt dist-upgrade -y && sudo apt install git python3 pip python-tk python3-tk -y && git clone https://github.com/OishiiCha/zoom_web_leg.git && cd zoom_web_lrg && python3 desktop_file.py
 ```
