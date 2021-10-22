@@ -20,7 +20,7 @@ def enter_data():
     txt_name = ent.get()
     meeting_id = txt_name.replace(" ", "")
     if len(meeting_id) in (10,11):
-        link = "https://us02web.zoom.us/wc/join/" + meeting_id + "?wpk=wcpk04759071e74dff4c8fcd93dc08777af5"
+        link = "https://pwa.zoom.us/wc/join/" + meeting_id
         error_message = Label(root, text="                                                     ")
         error_message.grid(row=5, columnspan=2)
         error_message.config(font=myfont)
